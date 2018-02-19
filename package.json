@@ -1,0 +1,19 @@
+{
+  "name": "lit-js",
+  "version": "1.0.0",
+  "description": "simple javascript library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UthaiahBollera/lit-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UthaiahBollera/lit-js/issues"
+  },
+  "homepage": "https://github.com/UthaiahBollera/lit-js#readme"
+}
